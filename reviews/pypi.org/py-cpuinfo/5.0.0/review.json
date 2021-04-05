@@ -1,0 +1,29 @@
+{
+  "package": {
+    "name": "py-cpuinfo",
+    "version": "5.0.0",
+    "registry": {
+      "host_name": "pypi.org"
+    },
+    "registry_human_url": "https://pypi.org/pypi/py-cpuinfo/5.0.0/",
+    "archive_url": "https://files.pythonhosted.org/packages/42/60/63f28a5401da733043abe7053e7d9591491b4784c4f87c339bf51215aa0a/py-cpuinfo-5.0.0.tar.gz",
+    "archive_hash": "4a42aafca3d68e4feee71fde2779c6b30be37370aa6deb3e88356bbec266d017"
+  },
+  "comments": [
+    {
+      "summary": "warn",
+      "file": "cpuinfo/cpuinfo.py",
+      "description": "Confusing code potentially dangerous. (Example review comment.)",
+      "selection": {
+        "start": {
+          "line": 320,
+          "character": 3
+        },
+        "end": {
+          "line": 320,
+          "character": 20
+        }
+      }
+    }
+  ]
+}
