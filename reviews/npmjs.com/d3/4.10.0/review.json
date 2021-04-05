@@ -1,0 +1,20 @@
+{
+  "package": {
+    "name": "d3",
+    "version": "4.10.0",
+    "registry": {
+      "host_name": "npmjs.com"
+    },
+    "registry_human_url": "https://www.npmjs.com/package/d3/v/4.10.0",
+    "archive_url": "https://registry.npmjs.org/d3/-/d3-4.10.0.tgz",
+    "archive_hash": "42fdba7bf60b6707cb4dab7a1e94b508cd4b563c0f94bd6d640c766271f2020b"
+  },
+  "comments": [
+    {
+      "summary": "pass",
+      "file": "LICENSE",
+      "description": "Review complete for file or directory contents.",
+      "selection": null
+    }
+  ]
+}
