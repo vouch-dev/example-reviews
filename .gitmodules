@@ -1,0 +1,3 @@
+[submodule "peers/github.com/rndhouse/vouch-reviews"]
+	path = peers/github.com/rndhouse/vouch-reviews
+	url = https://github.com/rndhouse/vouch-reviews
